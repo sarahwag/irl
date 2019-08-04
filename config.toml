@@ -1,0 +1,19 @@
+baseURL = "https://irl.course.sjmd.space"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+title = "Module 6"
+theme = "teach"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+[params]
+	editURL = "https://github.com/sjmd/irl/tree/master/content/"
+	helpURL = "https://sjmd.space/help"
+	description = "Social Justice, Minus Dogma Course + Community"
+	author = "SJMD"
+	showVisitedLinks = true
+	disableBreadcrumb = false
+	disableNextPrev = false
+	themeVariant = "pink"
+
+[outputs]
+	home = [ "HTML", "RSS", "JSON"]

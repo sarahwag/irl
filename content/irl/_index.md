@@ -1,7 +1,7 @@
 ---
 title: "In Real Life"
 chapter: true
-weight: 2
+weight: 1
 ---
 ### Module 6
 # In Real Life

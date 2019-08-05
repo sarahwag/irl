@@ -8,7 +8,6 @@ weight: 1
 
 ##### Guiding Questions:
 
-1. How do we bring SJMD to our IRL communities? 
-2. Who are we finding? 
-3. What’s included in our MVP? 
-4. What are the first steps we’re going to take?
+1. How do we bring SJMD to our IRL communities?
+2. What’s included in our MVP?
+3. What are the first steps we’re going to take?

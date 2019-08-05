@@ -1,7 +1,7 @@
 ---
 title: "Mindfulness"
 weight: 1
-discourse: "TK"
+discourse: "https://community.sjmd.space/t/mindfulness/"
 ---
 
 Mindfulness, a westernized term to describe Vipassana meditation, is the tool that we need to bring what we discussed in The Acolytes into our real lives.

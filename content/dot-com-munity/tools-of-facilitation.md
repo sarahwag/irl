@@ -1,7 +1,7 @@
 ---
 title: "Tools of Facilitation"
 weight: 1
-discourse: "TK"
+discourse: "https://community.sjmd.space/t/tools-of-facilitation"
 ---
 
 We don't know of a better "tool" when it comes to creating real community than the process of facilitation. But that's a big can of worms (a [nuanced skill,](http://www.facilitating.xyz/chapter-1-unlocking-magic-facilitation-understanding-facilitation-nuanced-skill/) if you will).

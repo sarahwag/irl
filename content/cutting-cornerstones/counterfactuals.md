@@ -1,7 +1,7 @@
 ---
 title: "Counterfactuals"
 weight: 1
-discourse: "TK"
+discourse: "https://community.sjmd.space/t/counterfactuals/"
 ---
 
 Spending a little more time in Philosophy Land, we have found the tool of counterfactuals to be super helpful for cutting cornerstones.

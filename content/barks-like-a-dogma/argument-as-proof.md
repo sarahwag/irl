@@ -1,7 +1,7 @@
 ---
 title: "Argument-as-Proof"
 weight: 1
-discourse: "TK"
+discourse: "https://community.sjmd.space/t/argument-as-proof"
 ---
 
 For this tool, we'll hand you over to Philosopher Daniel H. Cohen, and his distinction of "Argument-as-Proof" (vs. "Argument-as-War"):

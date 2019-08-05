@@ -1,7 +1,7 @@
 ---
 title: "Design Thinking"
 weight: 1
-discourse: "TK"
+discourse: "https://community.sjmd.space/t/design-thinking"
 ---
 
 The final tool to add to our tool belt is iterative design, or "design thinking" in general.

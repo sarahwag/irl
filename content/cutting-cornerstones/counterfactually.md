@@ -1,6 +1,6 @@
 ---
 title: "[Counterf-]actually..."
-weight: 1
+weight: 2
 ---
 
 If you remember, we introduced Cornerstones of SJD in addition to the tenets because we saw the naming and taming of tenets quickly becoming a game of Whack-a-Mole.

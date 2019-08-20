@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Module 6"
 theme = "teach"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+relativeURLs = true
 
 [params]
 	editURL = "https://github.com/sjmd/irl/tree/master/content/"

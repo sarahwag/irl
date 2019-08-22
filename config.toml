@@ -9,7 +9,7 @@ relativeURLs = true
 [params]
 	editURL = "https://github.com/sjmd/irl/tree/master/content/"
 	helpURL = "https://sjmd.space/help"
-	description = "Social Justice, Minus Dogma Course + Community"
+	description = "Social Justice, Minus Dogma Course Module 6"
 	author = "SJMD"
 	showVisitedLinks = true
 	disableBreadcrumb = false

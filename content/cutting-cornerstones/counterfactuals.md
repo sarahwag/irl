@@ -6,7 +6,7 @@ weight: 1
 
 Spending a little more time in Philosophy Land, we have found the tool of counterfactuals to be super helpful for cutting cornerstones.
 
-Put simply, a "counterfactual" a statement (or the start of an arguement-as-proof) that "If X wasn't true, Y would be." We often use counterfactuals in our day-to-day conversations or thinking without realizing it.
+Put simply, a "counterfactual" a statement (or the start of an argument-as-proof) that "If X wasn't true, Y would be." We often use counterfactuals in our day-to-day conversations or thinking without realizing it.
 
 Here's a video that walks through counterfactuals in more depth (sorry in advance for the font), and a (super jargon-laden) philosophical explanation of counterfactuals:
 

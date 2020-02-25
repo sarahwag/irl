@@ -9,6 +9,6 @@ In order to address things like guilt and shame, prestige, our own complicity in
 
 Mindfulness is a powerful tool that can help us do that.
 
-We will also benefit from cultivating [mindfulness triggers](https://www.wildmind.org/applied/daily-life/mindfulness-triggers), little notes-to-self (sometimes literally) that remind us to "break out of automatic pilot" and come back to the moment. (read more about that [here](https://www.wildmind.org/applied/daily-life/mindfulness-triggers))
+We will also benefit from cultivating [mindfulness triggers](https://www.wildmind.org/applied/daily-life/mindfulness-triggers), little notes-to-self (sometimes literally) that remind us to "break out of automatic pilot" and come back to the moment. (read more about that [here](https://www.wildmind.org/applied/daily-life/mindfulness-triggers)) <- FYI, both of these links are the same
 
 We need to be able to remember this tool exists, when, for example, we're arguing-as-war (instead of arguing-as-proof), or someone's counterfactual turns into a shouting contest.
